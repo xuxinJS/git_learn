@@ -3,3 +3,4 @@ import hi
 
 print(hi.__dict__)
 print("fix dev bug")
+print('amend test2')
