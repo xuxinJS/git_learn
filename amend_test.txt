@@ -2,3 +2,5 @@ first commit
 amend first
 
 protect3_1
+
+amend second_2
